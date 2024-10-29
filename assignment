@@ -1,0 +1,35 @@
+<table border="1">
+  <caption>Laptop Model Comparison</caption>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Price ($)</th>
+      <th>RAM (GB)</th>
+      <th>Storage (GB)</th>
+      <th>Battery Life (hours)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Model A</td>
+      <td>800</td>
+      <td>16</td>
+      <td>512</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Model B</td>
+      <td>950</td>
+      <td>32</td>
+      <td>1,000</td>
+      <td>8</td>
+    </tr>
+    <tr>
+      <td>Model C</td>
+      <td>700</td>
+      <td>8</td>
+      <td>256</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>
